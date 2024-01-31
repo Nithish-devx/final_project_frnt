@@ -1,0 +1,171 @@
+.d1 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d1 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+
+  .d2 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d2 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+
+
+  .d3 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d3 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+  
+  .d4 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d4 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+  
+  .d5 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d5 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+  
+
+  .d6 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d6 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+  
+
+  .d8 {
+    padding: 15px;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 0px;
+    
+    overflow: auto; /* Allow horizontal scrolling if necessary */
+  }
+  
+  .d8 > div {
+    flex: 0 0 auto; /* Do not allow the items to grow or shrink */
+    background-color: #f1f1f1;
+    margin: 2px;
+    padding: 20px;
+
+    font-size: 30px;
+  }
+  
+  .image {
+    flex: auto;
+    align-self: center;
+    padding: 15px;
+  }
+  
